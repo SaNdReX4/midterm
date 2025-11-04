@@ -633,6 +633,9 @@
   .text-\[16px\] {
     font-size: 16px;
   }
+  .text-\[18px\] {
+    font-size: 18px;
+  }
   .leading-\[100\%\] {
     --tw-leading: 100%;
     line-height: 100%;
